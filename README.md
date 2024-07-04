@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![yhish's Most used languages](https://github-readme-stats.vercel.app/api/wakatime?username=yhish&api_domain=mycoding.sorux.cn&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=yhish&abbreviated=true" />
 
-![yhish's coding activity](https://wakatime.com/share/@8c1c6628-0fe2-44af-b959-811289aa27cc/12966977-7660-48a2-9694-77956a9cfe55.svg)
+- My Coding Language All Time:
 
-![](https://wakatime.com/share/@8c1c6628-0fe2-44af-b959-811289aa27cc/cb33417a-f031-443d-acfa-360250540f91.svg)
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yhish&theme=transparent&hide_border=true&layout=compact&langs_count=10&display_format=percent&hide_title=true" />
+
+
+- I'll use:
+
+![](https://skillicons.dev/icons?i=vscode,pycharm,visualstudio,vim,md,qt,github,gitlab,git,linux,ubuntu,mysql,cmake,c,cpp,python,java,html,css,javascript,stackoverflow,twitter,discord,docker,ps,pr,ae)
