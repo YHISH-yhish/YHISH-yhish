@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=yhish&abbreviated=true" />
 
+<!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=YHISH-yhish&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" /> -->
+
 - My Coding Language All Time:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yhish&theme=transparent&hide_border=true&layout=compact&langs_count=10&display_format=percent&hide_title=true" />
