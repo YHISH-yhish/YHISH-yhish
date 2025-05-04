@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - My Coding Language All Time:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yhish&theme=transparent&hide_border=true&layout=compact&langs_count=10&display_format=percent&hide_title=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yhish&theme=transparent&hide_border=true&layout=compact&langs_count=16&display_format=percent&hide_title=true" />
 
 
 - I'll use:
