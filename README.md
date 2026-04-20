@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yhish&theme=transparent&hide_border=true&layout=compact&langs_count=16&display_format=percent&hide_title=true" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YHISH-yhish&theme=nord_bright)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YHISH-yhish&theme=nord_bright) -->
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YHISH-yhish&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YHISH-yhish&theme=nord_bright&utcOffset=8) -->
 
