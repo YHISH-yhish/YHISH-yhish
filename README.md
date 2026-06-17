@@ -20,15 +20,7 @@ Here are some ideas to get you started:
 
 <!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=YHISH-yhish&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" /> -->
 
-<table>
-  <tr>
-    <td width="100%"></td>
-    <td>
-      <img src="https://i.meee.com.tw/mrElRcO.gif" width="150" height="150" />
-    </td>
-    <td width="40"></td>
-  </tr>
-</table>
+<picture> <img src="https://i.meee.com.tw/mrElRcO.gif" width="150" height="150" align="right" /> </picture>
 
 - My Coding Language All Time:
 
