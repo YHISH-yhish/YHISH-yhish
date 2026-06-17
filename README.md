@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=WEICOME+TO+MY+GITHUB+PROFILE+PAGE!)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=yhish&abbreviated=true" />
-
 ## Hi, I'm yhish <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+
+Think above abstractions; verify within details. — [About me](https://yhish-yhish.github.io/).
+
+<img src="https://komarev.com/ghpvc/?username=yhish&abbreviated=true" />
 
 <picture> <img src="https://i.meee.com.tw/mrElRcO.gif" width="150" height="150" align="right" /> </picture>
 
