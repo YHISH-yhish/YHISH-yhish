@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm yhish <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-Think above abstractions; verify within details. — [About me](https://yhish-yhish.github.io/).
+*Think above abstractions; verify within details.* — [About me](https://yhish-yhish.github.io/).
 
 <img src="https://komarev.com/ghpvc/?username=yhish&abbreviated=true" />
 
