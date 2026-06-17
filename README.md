@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=yhish&abbreviated=true" />
 
+## Hi, I'm yhish <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+
 <picture> <img src="https://i.meee.com.tw/mrElRcO.gif" width="150" height="150" align="right" /> </picture>
 
 <!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=YHISH-yhish&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" /> -->
