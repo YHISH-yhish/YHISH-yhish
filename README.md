@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 
 <!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=YHISH-yhish&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" /> -->
 
+<picture>
+  <img src="https://picui.ogmua.cn/s1/2026/06/17/6a32b5a8306f8.webp&type=image/webp" width="150" height="150"
+    align="right" />
+</picture>
+
 - My Coding Language All Time:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yhish&theme=transparent&hide_border=true&layout=compact&langs_count=16&display_format=percent&hide_title=true" />
