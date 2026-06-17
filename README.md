@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=yhish&abbreviated=true" />
 
-<!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=YHISH-yhish&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" /> -->
-
 <picture> <img src="https://i.meee.com.tw/mrElRcO.gif" width="150" height="150" align="right" /> </picture>
+
+<!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=YHISH-yhish&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" /> -->
 
 - My Coding Language All Time:
 
